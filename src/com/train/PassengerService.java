@@ -16,7 +16,7 @@ public class PassengerService extends Train {
         return 0.0;
     }
 
-    protected int simulateDailyPassengerNumber(Month) {
+    protected int simulateDailyPassengerNumber() {
         return 0;
     }
 }
